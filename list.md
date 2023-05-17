@@ -1,5 +1,5 @@
-## List of all current formats implemented
-None yet
-## List of formats planned to be implemented
-Chess board
-Atom structure
+## List of all current formats implemented:
+- None so far
+## List of formats planned to be implemented:
+- Chess board
+- Atom structure
