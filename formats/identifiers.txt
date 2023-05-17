@@ -1,0 +1,2 @@
+<chesspos> - Chess board position
+<atomelem> - Atom structure/element
