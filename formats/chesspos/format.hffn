@@ -1,5 +1,5 @@
 <chesspos>
-
+[
 rnbqkbnr
 pppppppp
 --------
@@ -8,8 +8,11 @@ pppppppp
 --------
 PPPPPPPP
 RNBQKBNR
-
-: Color to move
-: Last move was __ to __
-: Castling - WB
-: Description
+]
+;Description
+;To move -
+:Color
+;Last move -
+:__ > __
+;Castling -
+:Color(s)
