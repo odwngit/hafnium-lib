@@ -1,5 +1,5 @@
 <chesspos>
-
+[
 -----k--
 p------p
 --------
@@ -8,8 +8,11 @@ p------p
 -B------
 --------
 ------K-
-
-: White to move
-: Last move was b7 to b5
-: Castling - 00
-: Mate in 1 puzzle
+]
+;Mate in 1 puzzle.
+;To move -
+:White
+;Last move -
+:b7 > b5
+;Castling -
+:White and Black
