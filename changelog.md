@@ -1,6 +1,7 @@
 ## v0.0.4 (18/05/23)
 - Added changelog.md
 - Added docs.md
+- Added plans.md
 - Changed syntax slightly
 - Adjusted `chesspos` and `atomelem` to fit syntax changes
 ## v0.0.3 (17/05/23)
